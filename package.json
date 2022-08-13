@@ -21,8 +21,6 @@
     "eslint": "^8.21.0"
   },
   "dependencies": {
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1",
     "inquirer": "^9.1.0",
     "prettier": "^2.7.1"
   }
