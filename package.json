@@ -1,9 +1,12 @@
 {
-  "name": "@MoshePeret/node.js-project-template-cli",
+  "name": "node.js-project-template-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@MoshePeret"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
