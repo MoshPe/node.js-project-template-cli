@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoshePeret/node.js-project-template-cli.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
@@ -11,8 +15,12 @@
     "template-cli": "./index.js"
   },
   "keywords": [
-    "Javascript",
-    "Node"
+    "template",
+    "cli",
+    "node.js",
+    "architecture",
+    "project",
+    "JavaScript"
   ],
   "author": "",
   "license": "ISC",
